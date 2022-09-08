@@ -1,0 +1,3 @@
+# GitPractice
+
+My Sample Project
