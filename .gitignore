@@ -1,0 +1,5 @@
+*.ipynb_checkpoints/
+git status
+git log
+git reset ""[DHEAD
+[3git checkout master
